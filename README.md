@@ -1,4 +1,3 @@
-myhubot
-=======
+# Hubot
 
-My personal Hubot buttler
+My personal "Hubot" buttler.
